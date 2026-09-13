@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Field-level JSON to Salesforce mapping for ERP synchronization.</description>
+    <label>ERP Field Mapping</label>
+    <pluralLabel>ERP Field Mappings</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
